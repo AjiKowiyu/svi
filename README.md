@@ -7,5 +7,6 @@ Code Igniter Framework Versi 3.1.13<br/>
 MariaDB<br/>
 <br/>
 Cara menjalankan :<br/>
-Export database svi.sql<br/>
-Letakkan di folder xampp/htdocs<br/>
+Buat database dengan nama svi<br/>
+Export table posts.sql<br/>
+Letakkan source aplikasi di folder xampp/htdocs<br/>
